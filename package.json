@@ -1,9 +1,10 @@
 {
   "dependencies": {
     "body-parser": "^1.20.3",
+    "dotenv": "^16.4.7",
     "express": "^4.21.0",
     "fs": "^0.0.1-security",
-    "openai": "^4.67.2",
+    "openai": "^4.87.3",
     "path": "^0.12.7",
     "purl": "^1.0.4"
   },
