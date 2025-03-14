@@ -7,7 +7,7 @@ import fs from 'fs';
 import dotenv from 'dotenv';
 dotenv.config();
 
-// Could not figure out how to get it to recognize the .env file, I've just been running export OPENAI_API_KEY=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
+// Could not figure out how to get it to recognize the .env file, I've just been running export OPENAI_API_KEY=
 
 // Initialize Express server
 const app = express();
